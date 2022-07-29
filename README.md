@@ -9,7 +9,8 @@ Rimawi Huang by Zaute Km
 <p>
 <br>
 <a href="http://bit.ly/hla-copy-pdf?"
-  <img src="https://telegra.ph/file/b10ee318365a000a72347.jpg" width="30" height="30">Hmet Rawh le!
+  <img src="https://telegra.ph/file/b10ee318365a000a72347.jpg" width="30" height="30">
+<b>Hmet Rawh Le!</b>
 </a>
 </p>
 </details>
